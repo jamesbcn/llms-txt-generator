@@ -27,6 +27,7 @@ Learn more: https://cleva.cat
     'version': '1.0',
     'depends': ['website'],
     'data': [],
+    'images': ['images/main_screenshot.png'],
     'installable': True,
     'application': False,
     'license': 'LGPL-3',

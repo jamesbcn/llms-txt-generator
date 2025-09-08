@@ -1,22 +1,40 @@
-# LLMS TXT Generator for Odoo
+# LLMs.txt Generator for Odoo
 
-This module automatically generates an **llms.txt** file for your Odoo website, following the [llmstxt.org](https://llmstxt.org/) guidelines.  
-The file makes your site more **SEO and LLM-friendly**, helping large language models and search engines better understand and index your content.
+**SEO-Friendly AI & LLM Indexing File**
 
-## Key Features
+The **LLMs.txt Generator** automatically creates a `/llms.txt` file for your Odoo 18 Community website, following the official [llmstxt.org](https://llmstxt.org) guidelines.
 
-- Generates `/llms.txt` dynamically
-- Includes:
-  - Published Website Pages
-  - Blog Posts
-  - eCommerce Product Pages (if installed)
-- Multi-language support (adds all active website languages)
-- SEO-optimized attribution with backlink to your website
-- 100% aligned with [llmstxt.org](https://llmstxt.org/) specifications
+This file makes it easier for *Large Language Models (LLMs)* such as ChatGPT and other AI tools to discover and understand your public content, boosting your website&rsquo;s visibility and discoverability in the AI era.
 
-## About Clevacat
+---
 
-Clevacat helps SMEs turn data into competitive advantage through **predictive modeling**, **object detection**, **conversational AI**, and **business automation**.  
-We drive digital transformation with **practical AI solutions** that deliver measurable results.
+## 🚀 Features
 
-🌐 Learn more: [https://cleva.cat](https://cleva.cat)
+- Generates an `/llms.txt` file dynamically.  
+- Includes all published web pages and blog posts.  
+- Multi-language support: generates URLs for all active languages.  
+- SEO-friendly format recommended by [llmstxt.org](https://llmstxt.org).  
+- No hardcoding &mdash; everything is pulled from your live Odoo site.  
+
+---
+
+## 📦 Installation
+
+1. Download and install the module in your Odoo 18 instance.  
+2. Activate it from the Apps menu.  
+3. Visit `https://yourdomain.com/llms.txt` to see the generated file.  
+
+---
+
+## 💡 Why Use This Module?
+
+Traditional SEO sitemaps are for search engines like Google.  
+`llms.txt` is for *AI models*.  
+
+By installing this module, your content is more likely to be indexed, referenced, and used by AI assistants.  
+
+---
+
+## 🛠 About the Author
+
+Developed and maintained by [Clevacat](https://cleva.cat) &mdash; helping SMEs turn data into competitive advantage through predictive modeling, object detection, conversational AI, and business automation.

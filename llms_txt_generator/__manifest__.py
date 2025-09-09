@@ -1,5 +1,5 @@
 {
-    'name': "LLMS TXT Generator",
+    'name': "LLMS.txt Generator",
     'summary': "Generate an llms.txt file for SEO and LLM-friendly indexing in Odoo websites",
     'description': """
 LLMS TXT Generator for Odoo

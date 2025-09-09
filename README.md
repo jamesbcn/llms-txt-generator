@@ -14,7 +14,7 @@ This file makes it easier for *Large Language Models (LLMs)* such as ChatGPT and
 - Includes all published web pages and blog posts.  
 - Multi-language support: generates URLs for all active languages.  
 - SEO-friendly format recommended by [llmstxt.org](https://llmstxt.org).  
-- No hardcoding &mdash; everything is pulled from your live Odoo site.  
+- No hardcoding - everything is pulled from your live Odoo site.  
 
 ---
 
@@ -37,4 +37,4 @@ By installing this module, your content is more likely to be indexed, referenced
 
 ## 🛠 About the Author
 
-Developed and maintained by [Clevacat](https://cleva.cat) &mdash; helping SMEs turn data into competitive advantage through predictive modeling, object detection, conversational AI, and business automation.
+Developed and maintained by [Clevacat](https://cleva.cat) - helping SMEs turn data into competitive advantage through predictive modeling, object detection, conversational AI, and business automation.

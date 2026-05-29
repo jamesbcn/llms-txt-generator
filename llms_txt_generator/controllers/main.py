@@ -5,7 +5,7 @@ from odoo.http import request
 
 class LlmsTxtController(http.Controller):
 
-    @http.route('/llms.txt', type='http', auth="public", website=True)
+    @http.route('/llms.txt', type='http', auth="public", website=False)
     def llms_txt(self):
         base_url = request.website.get_base_url()
         website = request.website
